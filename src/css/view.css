@@ -1,0 +1,30 @@
+.commonBall {
+    width: 512px;
+    margin: 0 auto;
+    margin-top: 8rem;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+  }
+  .commonButton {
+    width: 480px;
+    align-items: center;
+  }
+  .oneBall {
+    position: relative;
+    width: auto;
+    margin: 0 auto;
+    margin: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .textPosition {
+    margin-top: 10px;
+  }
+  .textPosition1 {
+    margin-top: 10px;
+    text-align: right;
+  }
+  /* .textPosition1 {
+    margin-top: 10px;
+    text-align: right;
+  } */
