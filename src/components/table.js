@@ -81,7 +81,7 @@ export const CreateTable = (props) => {
                 onClick={() => requestSort('price')}
                 className={getClassRoundsFor('price')}
               >
-                당첨 금엑
+                당첨 금액
             </button>
             </th>
           </tr>
